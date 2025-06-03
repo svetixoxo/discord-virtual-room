@@ -12,7 +12,7 @@ Das Tool soll zwei zentrale Funktionen ermöglichen:
    Jeder Nutzer kann festlegen, wo er andere Teilnehmer im Raum hört (bspw. links, rechts, vorne, hinten).
 
 2. **Globale Kanal-Konfiguration**  
-   Es kann auch serverseitig (bspw. durch bestimmte Benutzer oder Bots) definiert werden, welche Stimme aus welcher Richtung kommt, für eine sinnvolle Raumanordnung.
+   Es kann auch serverseitig (bspw. durch bestimmte Benutzer/Rollen oder Bots) definiert werden, welche Stimme aus welcher Richtung kommt, für eine sinnvolle Raumanordnung.
 
 ## Idee im Detail
 
