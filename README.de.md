@@ -1,4 +1,4 @@
-> 🇬🇧 For the English version [click here](README.md).
+lang: [en](README.md) | [de](README.de.md)
 
 # Discord Virtual Room (Idee)
 
