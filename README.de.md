@@ -1,6 +1,6 @@
 > 🇬🇧 For the English version [click here](README.md).
 
-# Discord Virtual Room (Konzept)
+# Discord Virtual Room (Idee)
 
 **Experimenteller Ansatz für räumliche Stimmenverteilung in Discord-Sprachkanälen**
 
